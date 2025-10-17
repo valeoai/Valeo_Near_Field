@@ -1,0 +1,52 @@
+In/Out,Parking Type,Surrounding FV,Surrounding MVL,Surrounding MVR,Surrounding RV,Record Name,Number of persons,Intent Type (P1),Intent Type (P2),Intent Type (P3),Extra Info,Starting Position
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.110927,1,Intent - Rear Left,,,,Front Left
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111113,1,Intent - Front Right,,,,Rear Right
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111334,1,Intent - Rear Right,,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111440,1,Intent - Front Left,,,,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111545,2,Intent - Front Left,Intent - Front Right,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111650,2,Intent - Front Right,Intent - Front Left,,,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111834,2,Intent - Rear Left,Intent - Rear Right,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.111927,2,Intent - Rear Right,Intent - Rear Left,,,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.112208,1,No Intent - Right,,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.112318,1,No Intent - Left,,,,Front Left
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.112421,1,No Intent - Left,,,P1 talking with driver (left),Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.112529,1,Intent - Trunk,,,,Front Left
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.112652,1,Intent - Trunk,,,Placing box in trunk,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.112836,1,Intent - Trunk,,,Trunk is remained open.,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.114117,1,Intent - Rear Left,,,,Front Left
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.114246,1,Intent - Front Right,,,,Rear Right
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.114419,1,Intent - Front Left,,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.114551,1,Intent - Rear Right,,,,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.114706,2,Intent - Rear Left,Intent - Rear Right,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.115057,2,Intent - Front Right,Intent - Rear Right,,,Right
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.115222,1,No Intent - Left,,,,Front
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.115338,1,No Intent - Right,,,Talking with phone,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.115454,2,No Intent - Left,No Intent - Left,,,Front Left
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.120516,1,Intent - Trunk,,,,Front Right
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.121715,1,Intent - Trunk,,,Hand Pinch,Rear
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.121857,1,Intent - Trunk,,,Hand Pinch,Front Left
+Outdoor,Free,Empty,Empty,Empty,Empty,20240206.122057,1,Intent - Front Right,,,,Front
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.142404,1,Intent - Front Right,,,,Front Left
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.142618,1,Intent - Rear Right,,,,Front Left
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.142736,1,Intent - Front Left,,,,Front Left
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.142835,1,Intent - Front Left,,,,Front
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.152037,1,Intent - Rear Right,,,,Front Right
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.152243,1,Intent - Rear Left,,,,Front Right
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.161756,1,No Intent - Front,,,,Front Left
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Grass,20240206.162027,1,No Intent - Front,,,,Front Right
+Outdoor,Parallel,Vehicle Par.,Empty,Curb,Wall,20240207.114257,1,Intent - Front Right,,,Other vehicle obstructs,Front Right
+Outdoor,Parallel,Vehicle Par.,Empty,Curb,Wall,20240207.114456,1,Intent - Front Right,,,,Right
+Outdoor,Perp. Back.,Curb,Vehicle Perp.,Vehicle Perp.,Empty,20240207.152653,1,Intent - Front Right,,,,Rear Right
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Vehicle Perp.,Curb,20240207.162549,1,Intent - Front Right,,,,Right
+Outdoor,Perp. Forwd.,Empty,Vehicle Perp.,Vehicle Perp.,Curb,20240207.162719,1,Intent - Front Right,,,,Front
+Indoor,Perp. Forwd.,Empty,Empty,Empty,Empty,20240208.120725,1,Intent - Front Left,,,,Rear Left
+Indoor,Perp. Forwd.,Empty,Empty,Empty,Empty,20240208.121107,1,Intent - Front Left,,,,Front
+Indoor,Perp. Forwd.,Empty,Empty,Vehicle Perp.,Empty,20240208.142742,1,Intent - Front Left,,,,Front
+Indoor,Perp. Forwd.,Empty,Empty,Vehicle Perp.,Empty,20240208.142857,1,Intent - Front Left,,,,Rear
+Indoor,Perp. Forwd.,Vehicle Perp.,Empty,Empty,Empty,20240208.152603,1,Intent - Front Left,,,,Front Left
+Indoor,Perp. Forwd.,Vehicle Perp.,Empty,Empty,Empty,20240208.153313,1,Intent - Front Left,,,,Front Left
+Indoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Empty,20240209.120653,1,Intent - Front Left,,,,Front Left
+Indoor,Perp. Forwd.,Empty,Vehicle Perp.,Empty,Empty,20240209.121446,1,Intent - Front Left,,,,Right
+Indoor,Perp. Back.,Empty,Vehicle Perp.,Vehicle Perp.,Empty,20240209.141529,1,Intent - Front Right,,,,Front Left
+Outdoor,Perp. Back.,Empty,Vehicle Perp.,Vehicle Perp.,Grass,20240209.152805,1,Intent - Front Right,,,,Front Right
+Outdoor,Perp. Back.,Empty,Vehicle Perp.,Vehicle Perp.,Grass,20240209.152914,1,Intent - Front Right,,,,Front Left

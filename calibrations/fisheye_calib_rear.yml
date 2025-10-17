@@ -1,0 +1,22 @@
+type: fisheye
+
+base_intrinsics:
+  img_width_px: 1632
+  img_height_px: 1280
+  cx_offset_px: 2.55623
+  cy_offset_px: -4.38468
+
+intrinsics:
+  pixel_aspect_ratio: 1.00049
+  c1: 441.898
+  c2: -28.0986
+  c3: 71.0423
+  c4: -25.0532
+
+extrinsics:
+  pos_x_m: -0.9130000000000003
+  pos_y_m: -0.082
+  pos_z_m: 0.885968
+  rot_x_deg : 62.6794
+  rot_z1_deg: 87.6051
+  rot_z2_deg: 3.88593
