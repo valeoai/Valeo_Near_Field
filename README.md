@@ -40,4 +40,4 @@ If you use the VNF dataset or our paper in your research, please cite us using t
 
 The full dataset can be downloaded from the following link:
 
-**[>> Download the VNF Dataset <<](https://drive.google.com/drive/folders/12gmb35DLEQ3Nd5rov_mhHOue0-uTsYrB?usp=sharing)**
+**[>> Download the VNF Dataset <<](https://zenodo.org/records/23506696)**
